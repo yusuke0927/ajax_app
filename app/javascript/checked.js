@@ -1,3 +1,4 @@
+console.log("ok")
 function check() {
   const posts = document.querySelectorAll(".post");
   posts.forEach(function (post) {
